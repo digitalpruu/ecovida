@@ -28,7 +28,7 @@ const textos = {
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/Guiomar-Azucena-Rodriguez-Lopez-de-Mesa",
+        facebook: "https://www.facebook.com/profile.php?id=61566531756153&mibextid=ZbWKwL",
         instagram: "https://www.instagram.com/guiomarazucena3",
         tiktok: "https://www.tiktok.com/@guiomar.azuzena.r",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
